@@ -1,0 +1,28 @@
+# Environment variables
+.env
+
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+.agpt_env/
+*.env/
+
+# Chroma / Vector DB folders
+db/
+chroma/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Streamlit cache
+.streamlit/
+
+# VS Code
+.vscode/
